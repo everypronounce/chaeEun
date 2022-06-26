@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "575311219870",
+    "project_id": "today-english-9635c",
+    "storage_bucket": "today-english-9635c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575311219870:android:e67388e7f3a07bdd1d3f8f",
+        "android_client_info": {
+          "package_name": "com.example.myalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575311219870-vv7colc6svpfm1g9u6ov57jb35478l21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm80p-unNkez9qBAvmenbaad9jPAXBNAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575311219870-vv7colc6svpfm1g9u6ov57jb35478l21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575311219870:android:7badddab377fb2c51d3f8f",
+        "android_client_info": {
+          "package_name": "com.todayEnglish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575311219870-vv7colc6svpfm1g9u6ov57jb35478l21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm80p-unNkez9qBAvmenbaad9jPAXBNAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575311219870-vv7colc6svpfm1g9u6ov57jb35478l21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
